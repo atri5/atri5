@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atri5
-- 📖 I am a Computer Science and Statistics student at University of California, Davis.
+- 📖 I am a Third Year Computer Science and Statistics student at University of California, Davis.
 - 👀 I’m interested in Machine Learning and Backend Systems Design.
 - 🚀 I have experience in Python, Java, R, C++, and PostgreSQL.
 - 🌱 I’m currently learning how to create and integrate web applications into existing industry softwares.
