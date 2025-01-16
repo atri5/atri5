@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning how to create and integrate web applications into existing industry softwares.
 - 📫 How to reach me: Through my email, atripathi7783@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Pineapple belongs on pizza
+
 
 <!---
 atri5/atri5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
